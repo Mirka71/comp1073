@@ -25,6 +25,39 @@
         "clover honey"
       ],
       "image" : "peach-mango.svg"
+    },
+    {
+      "name" : "Cotton Candy",
+      "calories" : 100,
+      "type" : "ice cream",
+      "ingredients" : [
+        "Artificial flavouring",
+        "Cream",
+        "Colouring"
+      ],
+      "image" : "ice-cream-xtra1.svg"
+    },
+    {
+      "name" : "Spooky Spice",
+      "calories" : 300,
+      "type" : "ice cream",
+      "ingredients" : [
+        "Ginger",
+        "Cloves",
+        "Cinnamon"
+      ],
+      "image" : "ice-cream-xtra2.svg"
+    },
+    {
+      "name" : "Strawberry",
+      "calories" : 280,
+      "type" : "sorbet",
+      "ingredients" : [
+        "Strawberries",
+        "Vanilla",
+        "Ice"
+      ],
+      "image" : "strawberry-sprinkle.svg"
     }
   ]
 }
